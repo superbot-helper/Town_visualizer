@@ -10,8 +10,6 @@ target/
 *.iml
 *.ipr
 
-### Serena ###
-.serena/
 
 ### Eclipse ###
 .apt_generated
